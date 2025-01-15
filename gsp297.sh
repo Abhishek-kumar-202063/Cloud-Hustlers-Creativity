@@ -1,4 +1,3 @@
-
 cd ~
 curl -LO https://raw.githubusercontent.com/Abhishek-kumar-202063/Cloud-Hustlers-Creativity/refs/heads/main/test.sh
 chmod +x test.sh
